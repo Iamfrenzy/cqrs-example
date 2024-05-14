@@ -4,7 +4,8 @@
 
 This project demonstrates a very basic bank ledger system using the CQRS (Command Query Responsibility Segregation) pattern, microservices architecture, and event sourcing. Instead of using a messaging system with a JMS provider, Spring Application Events are utilized, and persistence is managed in a HashMap.
 
-The project is a work in progress and will continue to evolve over time. All changes and updates will be logged in the [Changelog.md](Changelog.md) file.
+The project is a work in progress and will continue to evolve over time. All changes and updates will be logged in the [ChangeLog.md](ChnageLog.md)
+file.
 
 ### TODOs
 
