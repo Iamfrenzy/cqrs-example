@@ -10,6 +10,7 @@ file.
 ### TODOs
 
 - Implement logging using @slf4j for better monitoring and troubleshooting.
+- Implement Exception Handling.
 - Integrate Swagger for API documentation, or alternatively, use Spring Boot Actuator to expose endpoints.
 - Implement projections on the read/view side to optimize query performance and support complex read operations.
 - Resolve potential duplicate declarations in the POM(s).
